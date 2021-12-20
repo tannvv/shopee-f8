@@ -9,3 +9,5 @@
 ![Image](https://github.com/tannvv/shopee-f8/blob/main/screenshot/card.png)
 ### Heading sort and menu type of product 
 ![Image](https://github.com/tannvv/shopee-f8/blob/main/screenshot/heading-sort.png)
+### Product item
+![Image](https://github.com/tannvv/shopee-f8/blob/main/screenshot/product.png)
